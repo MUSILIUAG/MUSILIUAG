@@ -6,8 +6,8 @@ Aspiring Software Engineer
 
 * 🌍  I'm based in Nottingham
 * ✉️  You can contact me at [omofolaagoro580@icloud.com](mailto:omofolaagoro580@icloud.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on C++ projects
+* 🧠  I'm learning ASP.NET CORE
+* 🤝  I'm open to collaborating on ASP.NET CORE
 
 ### Skills
 
